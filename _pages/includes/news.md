@@ -1,7 +1,7 @@
 # 🔥 News
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
-- *2024-10* : 🎉 [Video Bokeh Rendering](https://openreview.net/pdf?id=VcovhnCKSt) is accepted to **ACM MM 2024**. 
+- *2024-10* : 🎉 [Video Bokeh Rendering](https://openreview.net/pdf?id=VcovhnCKSt) is accepted to **ACM MM 2024**, and and is honored as <font color=red>best paper candidate</font>:rocket::rocket::rocket:.
 - *2024-07* : 🎉 [DreamMover](https://dreamm0ver.github.io/) and [MVSGaussian](https://mvsgaussian.github.io/) are accepted to **ECCV 2024**.
 - *2024-07* : 🎉  Won **Winner Award** in "TRICKY 2024 Transparent & Reflective objects In the wild Challenge".
 - *2024-02* : 🎉 [DyBluRF](https://github.com/huiqiang-sun/DyBluRF) is accepted to **CVPR 2024**.
