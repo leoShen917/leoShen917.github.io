@@ -5,5 +5,5 @@
 - *2024-07* : 🎉 [DreamMover](https://dreamm0ver.github.io/) and [MVSGaussian](https://mvsgaussian.github.io/) are accepted to **ECCV 2024**.
 - *2024-07* : 🎉  Won **Winner Award** in "TRICKY 2024 Transparent & Reflective objects In the wild Challenge".
 - *2024-02* : 🎉 [DyBluRF](https://github.com/huiqiang-sun/DyBluRF) are accepted to **CVPR 2024**.
-- 2023-10 :🎉 [Make-It-4D](https://github.com/leoShen917/Make-It-4D) are accepted to **ACM MM 2023**.
+- *2023-10* : 🎉 [Make-It-4D](https://github.com/leoShen917/Make-It-4D) are accepted to **ACM MM 2023**.
 - *2023-06* : 🎉 Won **Winner Award** in "NTIRE 2023 Bokeh Effect Transformation Challenge".
