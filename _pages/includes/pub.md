@@ -29,8 +29,23 @@ By leveraging the prior of diffusion models, DreamMover can generate intermediat
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/MVSGaussian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 [**ECCV 2024**] [MVSGaussian: Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo](https://mvsgaussian.github.io/) \\
 Tianqi Liu, Guangcong Wang, Shoukang Hu, **Liao Shen**, Xinyi Ye, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu.  \\
+[[Project page]](https://mvsgaussian.github.io/)
+[[Paper]](https://arxiv.org/abs/2405.12218)
+[[Code]](https://github.com/TQTQliu/MVSGaussian)
+
+MVSGaussian is a Gaussian-based method designed for efficient reconstruction of unseen scenes from sparse views in a single forward pass. It offers high-quality initialization for fast training and real-time rendering.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV Workshop 2024</div><img src='images/eccvw2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ECCV Workshop 2024**] [MVSGaussian: Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo](https://mvsgaussian.github.io/) \\
+Junrui Zhang, Jiaqi Li, Yachuan Huang, Yiran Wang, Jinghong Zheng, **Liao Shen**, Zhiguo Cao  \\
 [[Project page]](https://mvsgaussian.github.io/)
 [[Paper]](https://arxiv.org/abs/2405.12218)
 [[Code]](https://github.com/TQTQliu/MVSGaussian)
