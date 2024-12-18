@@ -52,7 +52,7 @@ DyBluRF is a dynamic neural radiance field method that synthesizes sharp novel v
 [[Paper]](https://arxiv.org/abs/2308.10257)
 [[Code]](https://github.com/leoShen917/Make-It-4D)
 
-ETMVSNet uses epipolar geometric priors to constrain feature aggregation fileds, thereby efficiently inferring multi-view depths and reconstructing scenes.
+Make-It-4D is a novel framework that can generate a consistent long-term dynamic video from a single image. The generated video in volves both visual content movements and large camera motions, bringing the still image back to life.
 
 </div>
 </div>
