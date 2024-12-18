@@ -48,10 +48,10 @@ DyBluRF is a dynamic neural radiance field method that synthesizes sharp novel v
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ETMVSNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ICCV 2023**] [When Epipolar Constraint Meets Non-local Operators in Multi-View Stereo](https://arxiv.org/abs/2309.17218) \\
-**Tianqi Liu**, Xinyi Ye, Weiyue Zhao, Zhiyu Pan, Min Shi, Zhiguo Cao. \\
-[[Paper]](https://arxiv.org/abs/2309.17218)
-[[Code]](https://github.com/TQTQliu/ET-MVSNet)
+[**ACM MM 2023**] [Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image](https://arxiv.org/abs/2308.10257) \\
+**Liao Shen**, Xingyi Li, Huiqiang Sun, Juewen Peng, Ke Xian, Zhiguo Cao, Guosheng Lin. \\
+[[Paper]](https://arxiv.org/abs/2308.10257)
+[[Code]](https://github.com/leoShen917/Make-It-4D)
 
 ETMVSNet uses epipolar geometric priors to constrain feature aggregation fileds, thereby efficiently inferring multi-view depths and reconstructing scenes.
 
