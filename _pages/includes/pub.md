@@ -46,9 +46,7 @@ MVSGaussian is a Gaussian-based method designed for efficient reconstruction of 
 
 [**ECCV Workshop 2024**] [Towards Robust Monocular Depth Estimation in Non-Lambertian Surfaces](https://arxiv.org/pdf/2408.06083) \\
 Junrui Zhang, Jiaqi Li, Yachuan Huang, Yiran Wang, Jinghong Zheng, **Liao Shen**, Zhiguo Cao  \\
-[[Project page]](https://mvsgaussian.github.io/)
-[[Paper]](https://arxiv.org/abs/2405.12218)
-[[Code]](https://github.com/TQTQliu/MVSGaussian)
+[[Paper]](https://arxiv.org/pdf/2408.06083)
 
 Monocular depth estimation methods often fail in predicting non-Lambertian surfaces, such as transparent or mirror (ToM) surfaces, due to the unique reflective properties of these regions. In this work, We enable the baseline model to directly learn the uniqueness of non-Lambertian surface regions for depth estimation through a well designed training framework.
 
