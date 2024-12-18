@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianqi Liu (刘天齐)"
+title                    : "Liao Shen (申立奥)"
 description              :
-repository               : "TQTQliu/tqtqliu.github.io"
+repository               : "leoShen917/leoshen917.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tianqi Liu" 
-  avatar           : "images/Avatar.jpg"
+  name             : "Liao Shen" 
+  avatar           : "images/leoshen_circle.jpg"
   bio              : "Huazhong University of Science and Technology"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=mY2Qc7YAAAAJ"
-  email            : "tq_liu@hust.edu.cn"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=bEi3j64AAAAJ"
+  email            : "leoshen@hust.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TQTQliu"
+  github           : "leoShen917"
   google_plus      :
   keybase          :
   instagram        :
