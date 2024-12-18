@@ -5,8 +5,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/mm2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Video Bokeh Rendering: Make Casual Videography Cinematic](https://dlnext.acm.org/doi/10.1145/3664647.3680629) \\
+[**ACM MM 2024**] [Video Bokeh Rendering: Make Casual Videography Cinematic](https://dlnext.acm.org/doi/10.1145/3664647.3680629) \\
 Yawen Luo, Min Shi, **Liao Shen**, Yachuan Huang, Zixuan Ye, Juewen Peng, Zhiguo Cao. \\
 [[Paper]](https://dlnext.acm.org/doi/10.1145/3664647.3680629)
 
@@ -17,7 +16,6 @@ We introduce VBR, the video bokeh rendering model that first leverages informati
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/dreammover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [**ECCV 2024**] [DreamMover: Leveraging the Prior of Diffusion Models for Image Interpolation with Large Motion](https://dreamm0ver.github.io/) \\
 **Liao Shen**, Tianqi Liu, Huiqiang Sun, Xinyi Ye, Baopu Li, Jianming Zhang, Zhiguo Cao. \\
 [[Project page]](https://dreamm0ver.github.io/)
