@@ -71,13 +71,25 @@ DyBluRF is a dynamic neural radiance field method that synthesizes sharp novel v
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/acmmm2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [**ACM MM 2023**] [Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image](https://arxiv.org/abs/2308.10257) \\
 **Liao Shen**, Xingyi Li, Huiqiang Sun, Juewen Peng, Ke Xian, Zhiguo Cao, Guosheng Lin. \\
 [[Paper]](https://arxiv.org/abs/2308.10257)
 [[Code]](https://github.com/leoShen917/Make-It-4D)
 
 Make-It-4D is a novel framework that can generate a consistent long-term dynamic video from a single image. The generated video in volves both visual content movements and large camera motions, bringing the still image back to life.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2023</div><img src='images/cvprw2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CVPR Workshop 2023**] [Selective Bokeh Effect Transformation](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Peng_Selective_Bokeh_Effect_Transformation_CVPRW_2023_paper.pdf) \\
+Juewen Peng, Zhiyu Pan, Chengxin Liu, Xianrui Luo, Huiqiang Sun, **Liao Shen**, Ke Xian, Zhiguo Cao. \\
+[[Paper]](https://github.com/JuewenPeng/SBTNet/blob/main/pdf/Selective Bokeh Effect Transformation.pdf)
+[[Code]](https://github.com/JuewenPeng/SBTNet/tree/main)
+
+Bokeh effect transformation aims to convert bokeh effects from one camera lens to another. In this work, we introduce a new concept of blur ratio, which represents the ratio of  the blur amount of a target image to that of a source image, and propose a novel framework SBTNet
 
 </div>
 </div>
