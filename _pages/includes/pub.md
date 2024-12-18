@@ -33,12 +33,13 @@ MVSGaussian is a Gaussian-based method designed for efficient reconstruction of 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cvpr2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**CVPR 2024**] [DyBluRF: Dynamic Neural Radiance Fields from Blurry Monocular Video](https://arxiv.org/abs/2403.10103) \\
-Huiqiang Sun, Xingyi Li, **Liao Shen**, Xinyi Ye, Ke Xian, Zhiguo Cao \\
+[**CVPR 2024**]  [DyBluRF: Dynamic Neural Radiance Fields from Blurry Monocular Video](https://arxiv.org/abs/2403.10103) \\
+Huiqiang Sun, Xingyi Li, **Liao Shen**, Xinyi Ye, Ke Xian, Zhiguo Cao.  \\
+[[Project page]](https://huiqiang-sun.github.io/dyblurf/)
 [[Paper]](https://arxiv.org/abs/2403.10103)
 [[Code]](https://github.com/huiqiang-sun/DyBluRF)
 
-RStab is a novel framework for video stabilization that integrates 3D multi-frame fusion through volume rendering.
+DyBluRF is a dynamic neural radiance field method that synthesizes sharp novel views from a monocular video affected by motion blur.
 
 </div>
 </div>
