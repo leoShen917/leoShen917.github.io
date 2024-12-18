@@ -6,9 +6,8 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/dreammover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
 [**ECCV 2024**] [DreamMover: Leveraging the Prior of Diffusion Models for Image Interpolation with Large Motion](https://dreamm0ver.github.io/) \\
-Liao Shen, **Tianqi Liu**, Huiqiang Sun, Xinyi Ye, Baopu Li, Jianming Zhang, Zhiguo Cao. \\
+**Liao Shen**, Tianqi Liu, Huiqiang Sun, Xinyi Ye, Baopu Li, Jianming Zhang, Zhiguo Cao. \\
 [[Project page]](https://dreamm0ver.github.io/)
 [[Paper]](https://arxiv.org/abs/2409.09605)
 [[Code]](https://github.com/leoShen917/DreamMover)
@@ -21,7 +20,7 @@ By leveraging the prior of diffusion models, DreamMover can generate intermediat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/MVSGaussian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [**ECCV 2024**] [MVSGaussian: Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo](https://mvsgaussian.github.io/) \\
-**Tianqi Liu**, Guangcong Wang, Shoukang Hu, Liao Shen, Xinyi Ye, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu.  \\
+Tianqi Liu, Guangcong Wang, Shoukang Hu, **Liao Shen**, Xinyi Ye, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu.  \\
 [[Project page]](https://mvsgaussian.github.io/)
 [[Paper]](https://arxiv.org/abs/2405.12218)
 [[Code]](https://github.com/TQTQliu/MVSGaussian)
@@ -34,10 +33,10 @@ MVSGaussian is a Gaussian-based method designed for efficient reconstruction of 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cvpr2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**CVPR 2024**] [3D Multi-frame Fusion for Video Stabilization](https://arxiv.org/pdf/2404.12887) \\
-Zhan Peng, Xinyi Ye, Weiyue Zhao, **Tianqi Liu**, Huiqiang Sun, Baopu Li, Zhiguo Cao. \\
-[[Paper]](https://arxiv.org/pdf/2404.12887)
-[[Code]](https://github.com/pzzz-cv/RStab)
+[**CVPR 2024**] [DyBluRF: Dynamic Neural Radiance Fields from Blurry Monocular Video](https://arxiv.org/abs/2403.10103) \\
+Huiqiang Sun, Xingyi Li, **Liao Shen**, Xinyi Ye, Ke Xian, Zhiguo Cao \\
+[[Paper]](https://arxiv.org/abs/2403.10103)
+[[Code]](https://github.com/huiqiang-sun/DyBluRF)
 
 RStab is a novel framework for video stabilization that integrates 3D multi-frame fusion through volume rendering.
 
