@@ -25,8 +25,6 @@ By leveraging the prior of diffusion models, DreamMover can generate intermediat
 [[Project page]](https://mvsgaussian.github.io/)
 [[Paper]](https://arxiv.org/abs/2405.12218)
 [[Code]](https://github.com/TQTQliu/MVSGaussian)
-[[Video]](https://youtu.be/4TxMQ9RnHMA)
-[[中文解读]](https://mp.weixin.qq.com/s/Y9uXxNMgliV9p-ne_bGpEw)
 
 MVSGaussian is a Gaussian-based method designed for efficient reconstruction of unseen scenes from sparse views in a single forward pass. It offers high-quality initialization for fast training and real-time rendering.
 
