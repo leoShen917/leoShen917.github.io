@@ -19,4 +19,6 @@ redirect_from:
 
 {% include_relative includes/honors.md %}
 
+{% include_relative includes/intership.md %}
+
 {% include_relative includes/links.md %}
