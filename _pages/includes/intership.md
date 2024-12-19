@@ -1,5 +1,6 @@
 # 📝 Internships and Experiences
 
-- **Worked on project "Camera Image Fusion and Reconstruction" with Huawei**, Nov. 2023 - Present
+- *2025.01 - 2025.07*, Project Officer at NTU
+- *2023.11 - 2025.01*, Worked on project "Camera Image Fusion and Reconstruction" with Huawei.
 
-- **Worked on project "Large Aperture Bokeh Effect Simulation of DSLR" with Vivo**, Oct. 2022 - Present
+- *2022.10 - 2023.10*, Worked on project "Large Aperture Bokeh Effect Simulation of DSLR" with Vivo.
