@@ -1,4 +1,4 @@
-# 📝 Internships and Experience
+# 📝 Internships and Experiences
 
 - **Worked on project "Camera Image Fusion and Reconstruction" with Huawei**, Nov. 2023 - Present
 
