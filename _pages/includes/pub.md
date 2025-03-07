@@ -40,7 +40,7 @@ By leveraging the prior of diffusion models, DreamMover can generate intermediat
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/MVSGaussian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/fit_process.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ECCV 2024**] [MVSGaussian: Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo](https://mvsgaussian.github.io/) \\
@@ -80,7 +80,7 @@ DyBluRF is a dynamic neural radiance field method that synthesizes sharp novel v
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/make-it-4d.gif' alt="sym" height="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/make-it-4d.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [**ACM MM 2023**] [Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image](https://arxiv.org/abs/2308.10257) \\
 **Liao Shen**, Xingyi Li, Huiqiang Sun, Juewen Peng, Ke Xian, Zhiguo Cao, Guosheng Lin. \\
