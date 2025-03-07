@@ -9,6 +9,7 @@
 [[Project page]](https://dof-gaussian.github.io/)
 [[Paper]](https://arxiv.org/abs/2503.00746v1)
 [[Code]](https://github.com/leoShen917/DoF-Gaussian)
+
 We introduce DoF-Gaussian, a controllable depth-of-field method for 3D-GS. We develop a lens-based imaging model based on geometric optics principles to control DoF effects. Our framework is customizable and supports various interactive applications.
 
 </div>
