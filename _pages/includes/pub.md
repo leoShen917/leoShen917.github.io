@@ -15,7 +15,7 @@ We introduce DoF-Gaussian, a controllable depth-of-field method for 3D-GS. We de
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/mm2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/video_bokeh.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ACM MM 2024**] [Video Bokeh Rendering: Make Casual Videography Cinematic](https://dlnext.acm.org/doi/10.1145/3664647.3680629) **<font color=red>(Best paper candidate)</font>**🚀🚀🚀 \\
