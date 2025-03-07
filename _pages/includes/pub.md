@@ -2,7 +2,7 @@
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/dofgaussian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/dofgaussian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [**CVPR 2025**] [DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting](https://dreamm0ver.github.io/) \\
 **Liao Shen**, Tianqi Liu, Huiqiang Sun, Jiaqi Li, Zhiguo Cao, Wei Li, Chen Change Loy. \\
