@@ -66,7 +66,7 @@ Monocular depth estimation methods often fail in predicting non-Lambertian surfa
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cvpr2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/dyblurf.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CVPR 2024**]  [DyBluRF: Dynamic Neural Radiance Fields from Blurry Monocular Video](https://arxiv.org/abs/2403.10103) \\
@@ -92,7 +92,7 @@ Make-It-4D is a novel framework that can generate a consistent long-term dynamic
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2023</div><img src='images/cvprw2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2023</div><img src='images/selective_bokeh.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CVPR Workshop 2023**] [Selective Bokeh Effect Transformation](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Peng_Selective_Bokeh_Effect_Transformation_CVPRW_2023_paper.pdf) \\
