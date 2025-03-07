@@ -2,6 +2,17 @@
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/dofgaussian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[**CVPR 2025**] [DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting](https://dreamm0ver.github.io/) \\
+**Liao Shen**, Tianqi Liu, Huiqiang Sun, Jiaqi Li, Zhiguo Cao, Wei Li, Chen Change Loy. \\
+[[Project page]](https://dof-gaussian.github.io/)
+[[Paper]](https://arxiv.org/abs/2503.00746v1)
+[[Code]](https://github.com/leoShen917/DoF-Gaussian)
+We introduce DoF-Gaussian, a controllable depth-of-field method for 3D-GS. We develop a lens-based imaging model based on geometric optics principles to control DoF effects. Our framework is customizable and supports various interactive applications.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/mm2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
