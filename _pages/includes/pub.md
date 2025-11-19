@@ -1,6 +1,32 @@
 # 📝 Publications 
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/cinectrl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Arxiv**] [Generative Photographic Control for Scene-Consistent Video Cinematic Editing](https://www.arxiv.org/pdf/2511.12921) \\
+Huiqiang Sun\*, **Liao Shen\***, Zhan Peng, Kun Wang, Size Wu, Yuhang Zang, Tianqi Liu, Zihao Huang, Xingyu Zeng, Zhiguo Cao, Wei Li, Chen Change Loy \\
+[[Paper]](https://www.arxiv.org/pdf/2511.12921)
+
+Cinectrl is the first video cinematic editing framework that provides fine control over professional camera parameters (e.g., bokeh, shutter speed).
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ipro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[**Arxiv**] [Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization](https://ipro-alimama.github.io/) \\
+**Liao Shen\***, Wentao Jiang\*, Yizhu Ran, Jiahe Li, Tiezheng Ge, Zhiguo Cao, Bo Zheng. \\
+[[Project page]](https://ipro-alimama.github.io/)
+[[Paper]](https://arxiv.org/abs/2510.14255)
+[[Code]](http://alibaba.github.io/ROLL/docs/UserGuide/algorithms/Reward_FL)
+
+IPRO is the first identity-preserving image-to-video generation model via reward feedback learning.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/mugs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -8,7 +34,7 @@
 Yaopeng Lou, **Liao Shen**, Tianqi Liu, Jiaqi Li, Zihao Huang, Huiqiang Sun, Zhiguo Cao. \\
 [[Paper]](https://arxiv.org/abs/2508.04297)
 
-Free4D is a tuning-free framework for 4D scene generation from a single image or text.
+MuGS is the first multi-baseline generalizable gaussian splatting method.
 
 </div>
 </div>
