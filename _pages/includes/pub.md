@@ -1,10 +1,22 @@
 # 📝 Publications 
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/mugs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ICCV 2025**] [MuGS: Multi-Baseline Generalizable Gaussian Splatting Reconstruction](https://arxiv.org/abs/2508.04297) \\
+Yaopeng Lou, **Liao Shen**, Tianqi Liu, Jiaqi Li, Zihao Huang, Huiqiang Sun, Zhiguo Cao. \\
+[[Paper]](https://arxiv.org/abs/2508.04297)
+
+Free4D is a tuning-free framework for 4D scene generation from a single image or text.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/free4d.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**arXiv 2025**] [Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency](https://free4d.github.io/) \\
+[**ICCV 2025**] [Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency](https://free4d.github.io/) \\
 Tianqi Liu, Zihao Huang, Zhaoxi Chen, Guangcong Wang, Shoukang Hu, **Liao Shen**, Huiqiang Sun, Zhiguo Cao, Wei Li, Ziwei Liu. \\
 [[Project page]](https://free4d.github.io/)
 [[Paper]](https://arxiv.org/pdf/2503.20785)
@@ -68,18 +80,6 @@ MVSGaussian is a Gaussian-based method designed for efficient reconstruction of 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV Workshop 2024</div><img src='images/eccvw2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**ECCV Workshop 2024**] [Towards Robust Monocular Depth Estimation in Non-Lambertian Surfaces](https://arxiv.org/pdf/2408.06083) \\
-Junrui Zhang, Jiaqi Li, Yachuan Huang, Yiran Wang, Jinghong Zheng, **Liao Shen**, Zhiguo Cao  \\
-[[Paper]](https://arxiv.org/pdf/2408.06083)
-
-Monocular depth estimation methods often fail in predicting non-Lambertian surfaces, such as transparent or mirror (ToM) surfaces, due to the unique reflective properties of these regions. In this work, We enable the baseline model to directly learn the uniqueness of non-Lambertian surface regions for depth estimation through a well designed training framework.
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/dyblurf.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -102,19 +102,6 @@ DyBluRF is a dynamic neural radiance field method that synthesizes sharp novel v
 [[Code]](https://github.com/leoShen917/Make-It-4D)
 
 Make-It-4D is a novel framework that can generate a consistent long-term dynamic video from a single image. The generated video in volves both visual content movements and large camera motions, bringing the still image back to life.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2023</div><img src='images/selective_bokeh.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**CVPR Workshop 2023**] [Selective Bokeh Effect Transformation](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Peng_Selective_Bokeh_Effect_Transformation_CVPRW_2023_paper.pdf) \\
-Juewen Peng, Zhiyu Pan, Chengxin Liu, Xianrui Luo, Huiqiang Sun, **Liao Shen**, Ke Xian, Zhiguo Cao. \\
-[[Paper]](https://github.com/JuewenPeng/SBTNet/blob/main/pdf/Selective Bokeh Effect Transformation.pdf)
-[[Code]](https://github.com/JuewenPeng/SBTNet/tree/main)
-
-Bokeh effect transformation aims to convert bokeh effects from one camera lens to another. In this work, we introduce a new concept of blur ratio, which represents the ratio of  the blur amount of a target image to that of a source image, and propose a novel framework SBTNet
 
 </div>
 </div>
