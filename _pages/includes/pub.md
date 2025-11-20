@@ -17,7 +17,7 @@ Cinectrl is the first video cinematic editing framework that provides fine contr
 <div class='paper-box-text' markdown="1">
   
 [**Arxiv**] [Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization](https://ipro-alimama.github.io/) \\
-**Liao Shen\***, Wentao Jiang\*, Yizhu Ran, Jiahe Li, Tiezheng Ge, Zhiguo Cao, Bo Zheng. \\
+**Liao Shen\***, Wentao Jiang\*, Yiran Zhu, Jiahe Li, Tiezheng Ge, Zhiguo Cao, Bo Zheng. \\
 [[Project page]](https://ipro-alimama.github.io/)
 [[Paper]](https://arxiv.org/abs/2510.14255)
 [[Code]](http://alibaba.github.io/ROLL/docs/UserGuide/algorithms/Reward_FL)
