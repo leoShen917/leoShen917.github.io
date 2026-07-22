@@ -13,10 +13,10 @@ Cinectrl is the first video cinematic editing framework that provides fine contr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ipro.png' alt="IPRO identity-preserving image-to-video generation overview" width="1003" height="713" loading="lazy" decoding="async"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/ipro.png' alt="IPRO identity-preserving image-to-video generation overview" width="1003" height="713" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[**Arxiv**] [Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization](https://ipro-alimama.github.io/) \\
+[**CVPR 2026**] [Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization](https://ipro-alimama.github.io/) \\
 **Liao Shen\***, Wentao Jiang\*, Yiran Zhu, Jiahe Li, Tiezheng Ge, Zhiguo Cao, Bo Zheng. \\
 [[Project page]](https://ipro-alimama.github.io/)
 [[Paper]](https://arxiv.org/abs/2510.14255)
