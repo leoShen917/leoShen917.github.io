@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+## 🎖 Honors and Awards
 
 - *2025* &nbsp;&nbsp; National Scholarship (Top 1%)
 - *2024* &nbsp;&nbsp; National Scholarship (Top 1%)

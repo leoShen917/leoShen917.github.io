@@ -1,4 +1,4 @@
-# 🔥 News
+## 🔥 News
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 - *2025-11* : 🎉 [Cinectrl](https://www.arxiv.org/abs/2511.12921) is now posted on Arxiv.
 - *2025-10* : 🎉 [IPRO](https://ipro-alimama.github.io/) is now posted on Arxiv.

@@ -1,7 +1,9 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Liao Shen (申立奥)"
+description: "Academic homepage of Liao Shen, featuring publications, research experience, awards, and projects in 3D computer vision and generative AI."
+excerpt: "Academic homepage of Liao Shen, featuring publications, research experience, awards, and projects in 3D computer vision and generative AI."
+image: "/images/leoshen_circle.jpg"
 author_profile: true
 redirect_from: 
   - /about/
