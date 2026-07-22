@@ -7,8 +7,10 @@
 
 # Site Settings
 title                    : "Liao Shen (申立奥)"
-description              :
-repository               : "leoShen917/leoshen917.github.io"
+description              : "Academic homepage of Liao Shen, featuring research in 3D computer vision, generative AI, and computational photography."
+url                      : "https://leoshen917.github.io"
+baseurl                  : ""
+repository               : "leoShen917/leoShen917.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
